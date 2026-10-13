@@ -1,0 +1,16 @@
+record_id,category,description,value
+F02-001,Services,Sample record 2-1,64.43
+F02-002,Training,Sample record 2-2,84.32
+F02-003,Training,Sample record 2-3,50.20
+F02-004,Services,Sample record 2-4,146.45
+F02-005,Hardware,Sample record 2-5,194.83
+F02-006,Services,Sample record 2-6,65.03
+F02-007,Services,Sample record 2-7,28.88
+F02-008,Training,Sample record 2-8,211.92
+F02-009,Services,Sample record 2-9,112.42
+F02-010,Hardware,Sample record 2-10,200.39
+F02-011,Hardware,Sample record 2-11,205.05
+F02-012,Training,Sample record 2-12,49.10
+F02-013,Hardware,Sample record 2-13,217.20
+F02-014,Software,Sample record 2-14,168.82
+F02-015,Hardware,Sample record 2-15,142.48

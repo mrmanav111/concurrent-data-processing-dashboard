@@ -1,0 +1,16 @@
+record_id,category,description,value
+F03-001,Software,Sample record 3-1,102.31
+F03-002,Software,Sample record 3-2,151.47
+F03-003,Training,Sample record 3-3,11.62
+F03-004,Services,Sample record 3-4,238.43
+F03-005,Training,Sample record 3-5,124.88
+F03-006,Software,Sample record 3-6,158.33
+F03-007,Software,Sample record 3-7,64.11
+F03-008,Training,Sample record 3-8,149.34
+F03-009,Services,Sample record 3-9,56.86
+F03-010,Software,Sample record 3-10,155.00
+F03-011,Services,Sample record 3-11,165.09
+F03-012,Software,Sample record 3-12,159.09
+F03-013,Hardware,Sample record 3-13,129.81
+F03-014,Hardware,Sample record 3-14,238.36
+F03-015,Software,Sample record 3-15,197.34
